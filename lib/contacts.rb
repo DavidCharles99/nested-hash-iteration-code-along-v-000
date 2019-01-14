@@ -14,7 +14,6 @@ require 'pry'
    }
 
 def remove_strawberry(contacts)
-  binding.pry
 
   contacts = {
     "Jon Snow" => {
